@@ -98,7 +98,7 @@ export default function Sidebar() {
           <div className="avatar">M</div>
           {!collapsed && (
             <div className="user-details">
-              <span className="user-name">Medoune</span>
+              <span className="user-name">Mohamed</span>
               <span className="user-role">Administrateur</span>
             </div>
           )}
